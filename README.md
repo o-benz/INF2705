@@ -42,11 +42,11 @@ This part involves loading and using textures to add detail to the 3D objects in
 #### Figures
 ![Figure 3](doc/figure-3.png)
 
-*The scene after being textured*
+*Scene viewed in FPS and TPS*
 
 ![Figure 4](doc/figure-4.png)
 
-*Scene viewed in FPS and TPS*
+*The scene after being textured*
 
 ## Stencil and Phong, Gouraud, Flat Illumination
 This assignment focuses on stencil testing and different lighting models.
@@ -105,7 +105,7 @@ This part includes configuration of feedback and drawing of particles to achieve
 *Particle effect through TEX Retroaction*
 
 ## Development
-Each assignment was developed using OpenGL 4 and written in C. Various libraries were utilized for specific functionalities:
+Each assignment was developed using OpenGL 4 and written in C/C++. Various libraries were utilized for specific functionalities:
 - **OpenGL**: Graphics rendering library for creating 3D scenes and applying transformations.
 - **GLFW**: Library for creating windows, contexts, and handling input.
 - **GLM**: Mathematics library for OpenGL, used for matrix transformations.
